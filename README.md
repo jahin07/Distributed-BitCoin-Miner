@@ -2,8 +2,8 @@
 An Elixir CLI application to generate bitcoins in a distributed system
 
 **Group Members: 
-Jahin Majumdar(UFID 69139840)
-Spandita Gujrati (UFID 81858145)**
+1. Jahin Majumdar(UFID 69139840)
+2. Spandita Gujrati (UFID 81858145)**
 
 ## 1. Size of Work Unit: 
 We have used number of actors = (No. of cores in the machine*2)+2 for the most effective usage. Each worker gets equal of of work at every instant. The size of our work unit is determined by regulating the actors and determining the ideal distribution of subproblems for a fixed number of workers. The bitcoins are mined continuously by workers which are supervised by a boss to keep track of the process. Even as separate machines are added as workers, the work size is distributed equally. 
