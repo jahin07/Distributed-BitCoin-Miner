@@ -17,10 +17,10 @@ We have used number of actors = (No. of cores in the machine*2)+2 for the most e
 
 ## 3. Running time for k = 5 (4-core machine)
 
-**real** 1m3.688s
-**user** 2m55.792s
-**sys**  0m45.779s
-**Ratio of (user+sys)/real** = ~3.48
+1. **real** 1m3.688s
+2. **user** 2m55.792s
+3. **sys**  0m45.779s
+4. **Ratio of (user+sys)/real** = ~3.48
 
 ## 4. Coin with max k = 6      
 jahinm;KSTtV     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0000003622C22D62B58FCC29C6DBB8A04F1158945EF3FB5EF2B7E0F3DC0AF7A8
